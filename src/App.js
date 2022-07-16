@@ -1,4 +1,4 @@
-import { Routes, Route, Link, Outlet } from "react-router-dom";
+import { Routes, Route, Link } from "react-router-dom";
 
 import { Container, Col, Row } from "react-bootstrap";
 import FreeComponent from "./pages/FreeComponent";
